@@ -59,3 +59,13 @@ C:\LABs\Aug CND\assignment-submission>
 
 
 =========================================================================================================
+
+
+
+
+gradlew cloudNativeDeveloperDistributedSystemWithSecurity     -PuaaUrl=https://dell-emc-pal.login.run.pivotal.io     -PclientId=748571a6-c394-49a7-865c-2173bef5d62d     -PclientSecret=051d29c7-6c4f-450d-b4df-32b2e9bd1a98     -PregistrationServerUrl=https://registration-pal-nag-covid.cfapps.io  -PbacklogServerUrl=https://backlog-pal-nag-covid.cfapps.io     -PallocationsServerUrl=https://allocations-pal-nag-covid.cfapps.io    -PtimesheetsServerUrl=https://timesheets-pal-nag-covid.cfapps.io
+
+
+
+
+==========================================================================================================
